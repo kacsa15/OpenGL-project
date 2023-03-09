@@ -1,0 +1,314 @@
+# Blender 3.4.0 MTL File: 'hegyek.blend'
+# www.blender.org
+
+newmtl Castle_Structures
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Users/ASUS/Desktop/3-1/GP/Project/RenderCrate-Medieval_Castle_Kit_4K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Structures.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd RenderCrate-Medieval_Castle_Kit_4K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Structures_BaseColor.png
+
+newmtl Castle_Towers.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd RenderCrate-Medieval_Castle_Kit_4K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Towers_BaseColor.png
+
+newmtl Castle_Walls.002
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd RenderCrate-Medieval_Castle_Kit_4K/RenderCrate-Medieval_Castle_Kit/Content/maps/Variation_Light_Bricks/Castle_Walls_BaseColor.png
+
+newmtl Cloud
+Ns 324.000031
+Ka 1.000000 1.000000 1.000000
+Kd 0.118262 0.119065 0.114889
+Ks 0.105505 0.105505 0.105505
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.039679 0.039679 0.039679
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Material.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 0.737671 0.064289
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Material.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.000000 0.737671 0.064289
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd trees/treeeee.png
+map_d trees/treeeee.png
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.039679 0.039679 0.039679
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Material_0.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material__2
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/ASUS/Desktop/3-1/GP/model/Prunus_Pendula_OBJ/Prunus_Pendula_OBJ/maps/prunus_pendula_branch_3_1_diffuse.jpg
+map_Bump -bm 1.000000 C:/Users/ASUS/Desktop/GP PROJECT/Prunus_Pendula_OBJ/Prunus_Pendula_OBJ/maps/prunus_pendula_branch_1_4_normal.jpg
+
+newmtl Material__3
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd C:/Users/ASUS/Desktop/GP PROJECT/Prunus_Pendula_OBJ/Prunus_Pendula_OBJ/maps/Prunus_pendula_flower_01_diffuse_1.jpg
+map_d C:/Users/ASUS/Desktop/GP PROJECT/Prunus_Pendula_OBJ/Prunus_Pendula_OBJ/maps/Prunus_pendula_flower_03_mask.jpg
+
+newmtl Physical
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.020000 0.020000 0.020000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd alduin-dragon-obj/alduin.jpg
+
+newmtl TexMap
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd unicorn/texture.png
+
+newmtl TexMap.002
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd duck/texture.jpg
+
+newmtl WoodLog_Plank
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd fence/WoodPlanksOld0242_7_S.jpg
+
+newmtl carriage1_Material.1001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd carriage/carriage1.<UDIM>.png
+
+newmtl ivy.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl ivy.002
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl ivy.003
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl mat_0-F1X1_003.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd flower/flower2/F1X1_003.jpg
+
+newmtl mat_0-Mauro.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd bush/Mauro.jpg
+
+newmtl mat_1-stalk_002_gradient.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd flower/flower2/stalk_002_gradient.jpg
+
+newmtl mat_2-VL1X4_001.jpg
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd flower/flower2/VL1X4_001.jpg
+
+newmtl mountain
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/ASUS/Desktop/hegyek/textures/Color__hero_mountain01.png
+
+newmtl plane
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/ASUS/Desktop/hegyek/textures/Color__hero_mountain01.png
+map_Ns C:/Users/ASUS/Desktop/hegyek/textures/Roughness__hero_mountain01.png
+map_Bump -bm 1.000000 C:/Users/ASUS/Desktop/hegyek/texturesPlan/Normal Map.png
+
+newmtl road.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.105505 0.105505 0.105505
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/aha.png
+
+newmtl tree1.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/ASUS/Desktop/GP PROJECT/trees/kisspng-venerable-trees-history-biology-and-conservatio-5b3c1eda1c91f4.577012421530666714117.png
+map_d C:/Users/ASUS/Desktop/GP PROJECT/trees/kisspng-venerable-trees-history-biology-and-conservatio-5b3c1eda1c91f4.577012421530666714117.png
+
+newmtl tree1.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/Users/ASUS/Desktop/GP PROJECT/trees/kisspng-venerable-trees-history-biology-and-conservatio-5b3c1eda1c91f4.577012421530666714117.png
+map_d C:/Users/ASUS/Desktop/GP PROJECT/trees/kisspng-venerable-trees-history-biology-and-conservatio-5b3c1eda1c91f4.577012421530666714117.png
+
+newmtl tree3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd trees/pinetree.png

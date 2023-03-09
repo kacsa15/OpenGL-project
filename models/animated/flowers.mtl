@@ -1,0 +1,22 @@
+# Blender 3.4.0 MTL File: 'hegyek.blend'
+# www.blender.org
+
+newmtl Material__3
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd Prunus_pendula_flower_01_diffuse_1.jpg
+map_d Prunus_pendula_flower_03_mask.jpg
+
+newmtl mat_0-F1X1_003.jpg.001
+Ns 9.849158
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd F1X1_003.jpg
